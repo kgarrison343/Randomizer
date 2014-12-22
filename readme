@@ -1,0 +1,12 @@
+Simple Randomizer for a variety of uses.
+Looks in the ./Choices directory for files, allowing you to choose one; it then randomly selects a line of text to output.
+Useful for such things as:
+Deciding on lunch
+Determining which podcast to listen to next
+Playing spin the bottle when you don't have a bottle
+...And much more!!!!
+
+Future versions will include:
+Ability to add weights to each item to bias your randomization
+Creating the files within the program (load, edit, and save)
+UI integration?
